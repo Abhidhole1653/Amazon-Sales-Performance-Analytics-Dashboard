@@ -22,39 +22,38 @@ To demonstrate **data analytics versatility**, this repository also includes **S
 
 ---
 
-## 📈 Dashboard Insights
+## Dataset Description
+The dataset represents Amazon Sales data with attributes such as:
 
-### 1️⃣ Sales Performance Dashboard
-
-* Monthly sales trend analysis
-* Revenue vs Profit comparison
-* Weekday vs Weekend order behavior
-* Top-performing products by revenue and profit
-
-### 2️⃣ Customer Insights
-
-* Customer distribution by country and state
-* Top 5 customers by revenue
-* Products sold by weekday/weekend
-* Category-wise revenue contribution
-
-### 3️⃣ Order Insights
-
-* Orders by status (Delivered, Shipped, Returned, Cancelled)
-* Target vs Actual order achievement
-* Order trends across years
-
-### 4️⃣ Target Analysis
-
-* Revenue vs Target Revenue
-* Profit vs Target Profit
-* Orders vs Target Orders
-* Year-over-Year growth comparison
+- Order details
+- Customer data
+- Product and category information
+- Sales targets for revenue, profit, and orders
+- Order-level details and order status
 
 
+## SQL Usage
 
+  SQL was used extensively to:
+- Calculated total revenue, profit, and order count
+- Analyzed yearly sales and profit trends
+- Evaluated revenue contribution by product category
+- Compared weekday vs weekend order volume
+- Identified top-performing products by revenue
+- Analyzed order distribution by status
+- Assessed sales performance by country and state
+- Identified top customers based on revenue
 
----
+All SQL queries used in this project are available in the /sql folder.
+
+## Key Insights
+
+- Revenue and profit show a consistent upward trend over the years
+- Electronics is the highest revenue-generating category
+- Weekday sales outperform weekend sales
+- The United States leads in overall revenue contribution
+- Majority of orders are successfully delivered with low return rates
+
 
 ## Dashboard Preview
 
@@ -83,12 +82,13 @@ To demonstrate **data analytics versatility**, this repository also includes **S
 
 
 
-## Tools & Skills Used
+## Business Impact
 
-- Power BI 
-- SQL
-- DAX
-- Data Modeling 
-- Data Cleaning & Transformation 
-- Business Intelligence 
+   This analysis helps stakeholders to:
+
+- Enables stakeholders to monitor sales, profit, and order performance in real time
+- Helps identify high-performing products and categories to optimize inventory planning
+- Supports data-driven decision-making through target vs actual performance tracking
+- Improves regional strategy by highlighting top-performing countries and states
+- Assists management in optimizing operational efficiency by analyzing order status trends
 
