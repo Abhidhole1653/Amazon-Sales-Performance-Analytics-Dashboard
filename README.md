@@ -10,21 +10,15 @@ To demonstrate **data analytics versatility**, this repository also includes **S
 
 ## 🛠 Tools & Technologies
 
-* **Power BI** – Data modeling, DAX measures, interactive dashboards
-* **SQL** – Data extraction, aggregation, KPI validation
-* **Microsoft Excel / CSV** – Raw data source (assumed transactional data)
-* **GitHub** – Version control & project showcase
+- Power BI 
+- SQL
+- DAX
+- Data Modeling 
+- Data Cleaning & Transformation 
+- Business Intelligence 
 
 ---
 
-## 📌 Key Business Metrics
-
-* **Total Revenue:** 337M
-* **Total Cost:** 30M
-* **Total Profit:** 306M
-* **Total Orders:** 100K
-* **Total Products:** 100K
-* **Total Customers:** 43K
 
 ---
 
@@ -57,21 +51,12 @@ To demonstrate **data analytics versatility**, this repository also includes **S
 * Orders vs Target Orders
 * Year-over-Year growth comparison
 
----
 
-## 🧠 Business Questions Answered
 
-* Which categories generate the highest revenue?
-* How do weekday sales compare to weekend sales?
-* Which regions and states contribute the most profit?
-* Are revenue and profit targets being achieved?
-* What are the yearly growth trends in revenue and profit?
 
 ---
 
 ## Dashboard Preview
-
-> 📌 Add the screenshots inside a folder named `screenshots/` in your GitHub repository.
 
 ### Cover Page
 <img width="1341" height="751" alt="Amazon Dashboard 1" src="https://github.com/user-attachments/assets/780259ca-fbc6-46fd-97db-62f6b75c6103" />
@@ -96,22 +81,7 @@ To demonstrate **data analytics versatility**, this repository also includes **S
 ### Target Analysis
 <img width="1346" height="755" alt="Amazon Dashboard 6" src="https://github.com/user-attachments/assets/6f186c50-9e1c-4293-b65b-7c9171ff0347" />
 
----
-## Key Metrics Tracked
 
-The dashboard provides monitoring of major business KPIs such as:
-
-- Total Revenue
-- Total Profit
-- Total Cost
-- Total Orders
-- Total Products Sold
-- Total Customers
-- Sales Trend by Month/Year
-- Category-wise Revenue Contribution
-- Target vs Actual Performance
-
----
 
 ## Tools & Skills Used
 
