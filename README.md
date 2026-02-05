@@ -1,4 +1,4 @@
-# Amazon Sales Performance Analytics Dashboard | Power BI & SQL
+# Amazon Sales Performance Analysis Dashboard | Power BI & SQL
 
 ## 📊 Project Overview
 
