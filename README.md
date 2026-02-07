@@ -70,7 +70,8 @@ All SQL queries used in this project are available in the /sql folder.
 
 
 ### Product Insights
-<img width="1337" height="757" alt="Amazon Dashboard 4" src="https://github.com/user-attachments/assets/e6787fcf-b6f9-4343-b69a-aa387ddb3a18" />
+
+<img width="1336" height="747" alt="Amazon Dashboard 4" src="https://github.com/user-attachments/assets/de697eaf-9061-48d3-b5f2-0c7cc760fcf5" />
 
 
 ### Order Insights
